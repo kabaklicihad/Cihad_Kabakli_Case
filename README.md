@@ -1,21 +1,6 @@
 # QA Engineer - Selenium Automation Task
 
-This project automates a set of test scenarios for the Insider (https://useinsider.com/) website using Java and Selenium WebDriver. The goal is to verify the functionality of specific UI components, navigation paths, and job listing filters as described in the provided task document.
-
-## Test Coverage
-
-Based on the task instructions in the PDF, the test suite covers the following scenarios:
-
-1. Verifies that the homepage (`https://useinsider.com/`) is opened successfully.
-2. Navigates to **Company > Careers** and checks that the **Career** page is loaded with visible blocks (Locations, Teams, Life at Insider)
-3. On the **Quality Assurance** careers page, clicks “See all QA jobs”, applies filters for:
-   - Location: *Istanbul, Turkey*
-   - Department: *Quality Assurance*
-4. Verifies that all listed jobs contain:
-   - Position: *Quality Assurance*
-   - Department: *Quality Assurance*
-   - Location: *Istanbul, Turkey*
-5. Clicks on the **View Role** button and checks that it redirects to the Lever application form page
+This project automates a set of test scenarios using Java and Selenium WebDriver. The goal is to verify the functionality of specific UI components, navigation paths, and job listing filters as described in the provided task document.
 
 ## Technologies Used
 

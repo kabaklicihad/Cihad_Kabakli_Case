@@ -1,0 +1,14 @@
+<suite name="Test Suite">
+        <test name="Chrome UI Test">
+            <parameter name="desiredBrowser" value="chrome"></parameter>
+                <classes>
+                    <class name="runner.WebTest"/>
+                </classes>
+        </test>
+        <test name="Firefox UI Test">
+            <parameter name="desiredBrowser" value="firefox"></parameter>
+            <classes>
+                <class name="runner.WebTest"/>
+            </classes>
+        </test>
+</suite>

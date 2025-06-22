@@ -122,3 +122,71 @@
 2025-06-22 13:13:09,399 INFO  [Log] Current URL contains 'https://jobs.lever.co/useinsider' 
 2025-06-22 13:13:09,426 INFO  [Log] Element 'By.xpath: //*[text()='Apply for this job']' is found. 
 2025-06-22 13:13:09,482 INFO  [Log] Element contains 'Quality Assurance' 
+2025-06-22 13:53:04,847 INFO  [Log] Click to 'By.id: wt-cli-accept-all-btn' element. 
+2025-06-22 13:53:06,207 INFO  [Log] Current URL is same with 'https://useinsider.com/' 
+2025-06-22 13:53:06,285 INFO  [Log] Element 'By.id: highlight-en' is found. 
+2025-06-22 13:53:06,438 INFO  [Log] Element 'By.xpath: //li[@class='nav-item']//a[text()='Login']' is found. 
+2025-06-22 13:53:06,527 INFO  [Log] Element 'By.xpath: //li[@class='nav-item']//a[text()='Get a Demo']' is found. 
+2025-06-22 13:53:07,369 INFO  [Log] Hover to 'By.xpath: //a[@id='navbarDropdownMenuLink' and contains(text(), 'Company')]' element. 
+2025-06-22 13:53:11,283 INFO  [Log] Click to 'By.xpath: //a[contains(text(), 'Careers')]' element. 
+2025-06-22 13:53:11,303 INFO  [Log] Current URL is same with 'https://useinsider.com/careers/' 
+2025-06-22 13:53:11,331 INFO  [Log] Element 'By.xpath: //section[@id='page-head']//div[contains(@class,'button-group')]//a[text()='Find your dream job']' is found. 
+2025-06-22 13:53:11,369 INFO  [Log] Scroll to 'By.xpath: //section[@id='career-find-our-calling']//h3[@class='category-title-media']' element. 
+2025-06-22 13:53:11,408 INFO  [Log] Element contains 'Find your calling' text. 
+2025-06-22 13:53:11,437 INFO  [Log] Element 'By.id: career-find-our-calling' is found. 
+2025-06-22 13:53:11,466 INFO  [Log] Element 'By.xpath: //section[@id='career-find-our-calling']//a[text()='See all teams']' is found. 
+2025-06-22 13:53:11,512 INFO  [Log] Scroll to 'By.id: career-our-location' element. 
+2025-06-22 13:53:11,534 INFO  [Log] Element 'By.id: career-our-location' is found. 
+2025-06-22 13:53:11,574 INFO  [Log] Element contains 'Our Locations' text. 
+2025-06-22 13:53:11,596 INFO  [Log] Element 'By.id: location-slider' is found. 
+2025-06-22 13:53:11,640 INFO  [Log] Scroll to 'By.xpath: //h2[text()='Life at Insider']' element. 
+2025-06-22 13:53:11,667 INFO  [Log] Element 'By.xpath: //h2[text()='Life at Insider']' is found. 
+2025-06-22 13:53:11,715 INFO  [Log] Element contains 'Life at Insider' text. 
+2025-06-22 13:53:13,782 INFO  [Log] Navigated to 'https://useinsider.com/careers/quality-assurance/' 
+2025-06-22 13:53:17,348 INFO  [Log] Click to 'By.xpath: //section[@id='page-head']//a[text()='See all QA jobs']' element. 
+2025-06-22 13:53:17,369 INFO  [Log] Current URL is same with 'https://useinsider.com/careers/open-positions/?department=qualityassurance' 
+2025-06-22 14:03:08,839 INFO  [Log] Click to 'By.id: wt-cli-accept-all-btn' element. 
+2025-06-22 14:03:09,026 INFO  [Log] Current URL is same with 'https://useinsider.com/' 
+2025-06-22 14:03:09,108 INFO  [Log] Element 'By.id: highlight-en' is found. 
+2025-06-22 14:03:09,156 INFO  [Log] Element 'By.xpath: //li[@class='nav-item']//a[text()='Login']' is found. 
+2025-06-22 14:03:09,202 INFO  [Log] Element 'By.xpath: //li[@class='nav-item']//a[text()='Get a Demo']' is found. 
+2025-06-22 14:03:09,566 INFO  [Log] Hover to 'By.xpath: //a[@id='navbarDropdownMenuLink' and contains(text(), 'Company')]' element. 
+2025-06-22 14:03:15,302 INFO  [Log] Click to 'By.xpath: //a[contains(text(), 'Careers')]' element. 
+2025-06-22 14:03:15,323 INFO  [Log] Current URL is same with 'https://useinsider.com/careers/' 
+2025-06-22 14:03:15,354 INFO  [Log] Element 'By.xpath: //section[@id='page-head']//div[contains(@class,'button-group')]//a[text()='Find your dream job']' is found. 
+2025-06-22 14:03:15,395 INFO  [Log] Scroll to 'By.xpath: //section[@id='career-find-our-calling']//h3[@class='category-title-media']' element. 
+2025-06-22 14:03:15,443 INFO  [Log] Element contains 'Find your calling' text. 
+2025-06-22 14:03:15,472 INFO  [Log] Element 'By.id: career-find-our-calling' is found. 
+2025-06-22 14:03:15,505 INFO  [Log] Element 'By.xpath: //section[@id='career-find-our-calling']//a[text()='See all teams']' is found. 
+2025-06-22 14:03:15,560 INFO  [Log] Scroll to 'By.id: career-our-location' element. 
+2025-06-22 14:03:15,581 INFO  [Log] Element 'By.id: career-our-location' is found. 
+2025-06-22 14:03:15,628 INFO  [Log] Element contains 'Our Locations' text. 
+2025-06-22 14:03:15,653 INFO  [Log] Element 'By.id: location-slider' is found. 
+2025-06-22 14:03:15,700 INFO  [Log] Scroll to 'By.xpath: //h2[text()='Life at Insider']' element. 
+2025-06-22 14:03:15,735 INFO  [Log] Element 'By.xpath: //h2[text()='Life at Insider']' is found. 
+2025-06-22 14:03:15,777 INFO  [Log] Element contains 'Life at Insider' text. 
+2025-06-22 14:03:17,373 INFO  [Log] Navigated to 'https://useinsider.com/careers/quality-assurance/' 
+2025-06-22 14:03:19,569 INFO  [Log] Click to 'By.xpath: //section[@id='page-head']//a[text()='See all QA jobs']' element. 
+2025-06-22 14:03:19,589 INFO  [Log] Current URL is same with 'https://useinsider.com/careers/open-positions/?department=qualityassurance' 
+2025-06-22 14:03:51,107 INFO  [Log] Click to 'By.id: select2-filter-by-location-container' element. 
+2025-06-22 14:03:51,139 INFO  [Log] Scroll to 'By.xpath: //ul[@id='select2-filter-by-location-results']//li[contains(text(),'Istanbul, Turkiye')]' element. 
+2025-06-22 14:03:51,254 INFO  [Log] Click to 'By.xpath: //ul[@id='select2-filter-by-location-results']//li[contains(text(),'Istanbul, Turkiye')]' element. 
+2025-06-22 14:03:51,410 INFO  [Log] Click to 'By.id: select2-filter-by-department-container' element. 
+2025-06-22 14:03:51,447 INFO  [Log] Scroll to 'By.xpath: //ul[@id='select2-filter-by-department-results']//li[contains(text(),'Quality Assurance')]' element. 
+2025-06-22 14:03:51,563 INFO  [Log] Click to 'By.xpath: //ul[@id='select2-filter-by-department-results']//li[contains(text(),'Quality Assurance')]' element. 
+2025-06-22 14:03:51,604 INFO  [Log] Element 'By.id: jobs-list' is visible. 
+2025-06-22 14:03:51,621 INFO  [Log] Element 'By.id: jobs-list' is found. 
+2025-06-22 14:03:51,648 INFO  [Log] Scroll to 'By.id: jobs-list' element. 
+2025-06-22 14:03:51,815 INFO  [Log] Hover to 'By.xpath: //div[@id='jobs-list']//div[contains(@class,'position-list-item-wrapper')]' element. 
+2025-06-22 14:03:53,463 INFO  [Log] Element 'By.xpath: //a[text()='View Role']' is visible. 
+2025-06-22 14:03:53,622 INFO  [Log] Element contains 'Quality Assurance'. Value : Senior Software Quality Assurance Engineer 
+2025-06-22 14:03:53,640 INFO  [Log] Element contains 'Quality Assurance'. Value : Software Quality Assurance Engineer 
+2025-06-22 14:03:53,668 INFO  [Log] Element contains 'Quality Assurance'. Value : Quality Assurance 
+2025-06-22 14:03:53,713 INFO  [Log] Element contains 'Quality Assurance'. Value : Quality Assurance 
+2025-06-22 14:03:53,745 INFO  [Log] Element contains 'Istanbul, Turkiye'. Value : Istanbul, Turkiye 
+2025-06-22 14:03:53,757 INFO  [Log] Element contains 'Istanbul, Turkiye'. Value : Istanbul, Turkiye 
+2025-06-22 14:03:53,937 INFO  [Log] Click to 'By.xpath: //a[text()='View Role']' element. 
+2025-06-22 14:03:53,975 INFO  [Log] Tab is switched 
+2025-06-22 14:03:57,613 INFO  [Log] Current URL contains 'https://jobs.lever.co/useinsider' 
+2025-06-22 14:03:57,635 INFO  [Log] Element 'By.xpath: //*[text()='Apply for this job']' is found. 
+2025-06-22 14:03:57,673 INFO  [Log] Element contains 'Quality Assurance' text. 

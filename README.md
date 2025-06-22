@@ -20,7 +20,7 @@ Before running the project, make sure the following are installed and properly c
 - **Maven 3.6 or later**  
   Used to manage dependencies and execute tests.
 
-- **IntelliJ IDEA (or any Java IDE)**  
+- **VS Code (or any Java IDE)**  
   Recommended for editing, building, and running the tests easily.
 
 - **Google Chrome and Firefox Browser**  
@@ -33,8 +33,8 @@ Before running the project, make sure the following are installed and properly c
 
 ## How to Run the Tests
 
-### Using IntelliJ IDEA
-1. Open the project in IntelliJ
+### Using VS Code 
+1. Open the project in VS Code
 2. Open WebTest.java file
 3. Right click and Run Java
 
